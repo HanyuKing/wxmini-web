@@ -17,7 +17,7 @@ public class CustomerController {
 
     @GetMapping(value = "/helloworld")
     public String helloWorld(){
-        return "Hello, welcome to COLA world!";
+        return "Hello, WHY!";
     }
 
     @GetMapping(value = "/customer")
